@@ -7,12 +7,12 @@ public class Card : MonoBehaviour
     /// <summary>
     /// Health points associated with this card
     /// </summary>
-    [SerializeField] private readonly int _hitPoints;
+    [SerializeField] private int _hitPoints;
 
     /// <summary>
     /// Damage points associated with this card
     /// </summary>
-    [SerializeField] private readonly int _damagePoints;
+    [SerializeField] private int _damagePoints;
 
 
     /// <summary>

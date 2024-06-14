@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Trading Card 2D Prototype.sln"
+    "dotnet.defaultSolution": "Trading-Card-Prototype-2D.sln"
 }
